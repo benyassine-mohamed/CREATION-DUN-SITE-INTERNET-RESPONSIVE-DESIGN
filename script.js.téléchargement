@@ -1,0 +1,18 @@
+$(document).ready(function(){
+    $("#faq_1").click(function(){
+    $("#awn_1").fadeToggle(200);
+
+});
+    $("#faq_2").click(function(){
+    $("#awn_2").fadeToggle(200);
+});
+    $("#faq_3").click(function(){
+    $("#awn_3").fadeToggle(200);
+});
+    $("#faq_4").click(function(){
+    $("#awn_4").fadeToggle(200);
+});
+    $("#faq_5").click(function(){
+    $("#awn_5").fadeToggle(200);
+});
+});
